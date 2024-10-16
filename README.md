@@ -1,4 +1,4 @@
-# cheaper-compasses
+# Cheaper Compasses
 Minecraft uses six iron ingots to craft three doors, yet it takes four ingots and redstone dust to create one compass. This makes no sense. So, this data pack updates the compass recipe to use three iron nuggets, one iron ingot and redstone dust.
 
 

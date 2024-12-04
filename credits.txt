@@ -2,3 +2,6 @@ Pack name:  Cheaper Compasses
 Pack URL:   https://modrinth.com/datapack/cheaper-compasses
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
+
+Initial data pack generated with Misode Data Pack Generator (https://misode.github.io/).
+Pack maintained using Visual Studio Code.

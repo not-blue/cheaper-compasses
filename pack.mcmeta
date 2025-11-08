@@ -3,32 +3,42 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 999
+      "max_inclusive": 88
     },
+    "min_format": [15, 0],
+    "max_format": [88, 0],
     "description": "Use fewer iron ingots to craft compasses"
   },
   "overlays": {
     "entries": [
       {
         "formats": 41,
+        "min_format": [41, 0],
+        "max_format": [41, 0],
         "directory": "overlay_41"
       },
       {
         "formats": 48,
+        "min_format": [48, 0],
+        "max_format": [48, 0],
         "directory": "overlay_48"
       },
       {
         "formats": {
           "min_inclusive": 57,
-          "max_inclusive": 999
+          "max_inclusive": 88
         },
+        "min_format": [57, 0],
+        "max_format": [88, 0],
         "directory": "overlay_57"
       },
       {
         "formats": {
           "min_inclusive": 71,
-          "max_inclusive": 999
+          "max_inclusive": 88
         },
+        "min_format": [71, 0],
+        "max_format": [88, 0],
         "directory": "overlay_71"
       }
     ]

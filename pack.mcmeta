@@ -20,7 +20,7 @@
       {
         "formats": 48,
         "min_format": [48, 0],
-        "max_format": [48, 0],
+        "max_format": [95, 0],
         "directory": "overlay_48"
       },
       {

@@ -6,9 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:redstone"
-            ]
+            "items": "minecraft:redstone"
           }
         ]
       }
@@ -16,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:compass"
+        "recipes": "minecraft:compass"
       }
     }
   },
